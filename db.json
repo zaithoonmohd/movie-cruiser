@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": 100,
+      "title": "Frozen 2",
+      "imageUrl": "../image/frozen.png",
+      "description": "Elsa the Snow Queen has an extraordinary gift -- the power to create ice and snow. But no matter how happy she is to be surrounded by the people of Arendelle, Elsa finds herself strangely unsettled."
+    },
+    {
+      "id": 101,
+      "title": "Joker",
+      "imageUrl": "../image/joker.jpg",
+      "description": "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City. Arthur wears two masks -- the one he paints for his day job as a clown, and the guise he projects in a futile attempt to feel like he's part of the world around him."
+    },
+    {
+      "id": 103,
+      "title": "Jumanji",
+      "imageUrl": "../image/jumanji.jpg",
+      "description": "When Spencer goes back into the fantastical world of Jumanji, pals Martha, Fridge and Bethany re-enter the game to bring him home. But the game is now broken -- and fighting back."
+    },
+    {
+      "id": 104,
+      "title": "Spiderman",
+      "imageUrl": "../image/spider.jpg",
+      "description": "Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer-artist Steve Ditko. He first appeared in the anthology comic book Amazing Fantasy #15 in the Silver Age of Comic Books."
+    }
+  ]
+}
